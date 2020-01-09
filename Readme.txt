@@ -1,0 +1,1 @@
+I have chosen "Titanic data" to do this visualization assignment. I downloaded it from Kaggle site. Link to the same is : https://www.kaggle.com/c/titanic/data . I have downloaded "train.csv" from there which has 891 rows and 12 columns.
